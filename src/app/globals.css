@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+    text-decoration: none;
+}
+
+body {
+    --tw-bg-opacity: 1;
+    background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
+
+/* .container {
+    @apply min-h-[100vh] max-w-[1212px] flex flex-col m-auto xl:ml-[20%] bg-gray-100;
+} */
